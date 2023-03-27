@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Mobile and Web Based Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WEGYU1826/](https://github.com/WEGYU1826/)
+- 👨‍💻 All of my projects are available at [WEGYU](https://github.com/WEGYU1826/)
 
 - 💬 Ask me about **Any Mobile and Web Based Development Projects**
 
