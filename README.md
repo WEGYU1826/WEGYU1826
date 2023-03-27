@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **News Platform Project**
+- 🔭 I’m currently working on **Belcash Proejcts**
 
-- 🌱 I’m currently learning **Flutter, Python, JavaScript, React Native, Vue JS and Node JS**
+- 🌱 I’m currently learning **Python, Node JS**
 
 - 👯 I’m looking to collaborate on **Any Mobile and Web Based Development Projects**
 
